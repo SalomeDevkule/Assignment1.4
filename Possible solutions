@@ -1,0 +1,8 @@
+There are two possible solutions to handle the big data,these are scale up and scale out.
+1. scale up: 1.It increase the configuration of single file system like disk capacity,RAM, speed and data transfer,etc.
+2.but it is costly,complex and time consuming process.
+3.it is a monolithic system.
+
+scale out: 1.use multiple commodity machines and distribute the load among these machines.
+2. quickly implements its solution among its machines.
+3. it is not monolithic system instead increases its number of machines.
