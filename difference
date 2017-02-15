@@ -1,0 +1,15 @@
+Scale out:(Horizontal scaling)
+              1.Horizontal scaling means that you scale by adding more machines into your pool of resources.
+
+              2.It is often based on partitioning of the data i.e. each node contains only part of the data.
+
+              3.With horizontal-scaling it is often easier to scale dynamically by adding more machines into the existing pool.
+
+   Scale out:(vertical scaling)
+
+              1.Vertical scaling means that you scale by adding more power (CPU, RAM) to an existing machineIn a database world.
+
+              2.In vertical-scaling the data resides on a single node and scaling is done through multi-core.
+
+              3.It is often limited to the capacity of a single machine, scaling beyond that capacity often involves downtime and comes with an 
+               upper limit.
