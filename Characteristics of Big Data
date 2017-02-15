@@ -1,0 +1,26 @@
+Volume:
+Volume is a key contributor to the problem of why traditional relational database management systems 
+(RDBMS, data warehouses as we know them today) fail to handle Big Data.  Underlying that failure are more complex issues 
+of cost, reliability, long query times, and their inability to handle new sources of unstructured or semi-structured data like text.
+
+Variety: 
+Variety describes different formats of data that do not lend themselves to storage in structured relational database systems. 
+These include a long list of data such as documents, emails, social media text messages, video, still images, audio, graphs, and the 
+output from all types of machine-generated data from sensors, devices, RFID tags, machine logs, cell phone GPS signals,
+DNA analysis devices, and more.  This type of data is characterized as unstructured or semi-structured and has existed all along.
+
+
+
+Velocity:
+This is one of the major determinants of Big Data storage, retrieval, analysis, and deployment architecture that companies
+must work through today. When you sign on to Amazon or Netflix and see recommended purchases or views just for you the same process 
+has taken place.  The architecture of capture, analysis, and deployment must support real-time turnaround (in this case fractions of a
+second) and must do this consistently over thousands of new visitors each minute.  Real Time Big Data Analytics (RTBDA) is one of the main
+frontiers of development in Big Data today.
+
+
+Value:
+It is equally true of both big and little data that if we are making the effort to store and analyze it then it must
+be perceived to have value.
+
+Veracity:It tells how trustworthy the data is that leads to the right direction while processing it. 
